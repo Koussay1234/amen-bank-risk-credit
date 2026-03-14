@@ -9,5 +9,5 @@ shap
 matplotlib
 seaborn
 joblib
-import statsmodels.api as sm
+statsmodels
 scipy
